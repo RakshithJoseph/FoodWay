@@ -1,6 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# FoodWay
+#### Roll No: UI20CS68, UI20CS54
+FoodWay is an innovative online web platform that revolutionizes the way people order food. With no account hassle, users can easily place orders and enjoy a wide variety of dishes from the comfort of their own home. FoodWay offers attractive offers and discounts to make food ordering more affordable and accessible for everyone. The platform offers two payment options, including cash on delivery and online net banking through PayPal, ensuring that users have flexibility and convenience when it comes to payment.
 
-## Getting Started
+Behind the scenes, admin accounts manage the details of the dishes and monitor the status of orders with authentication, ensuring that everything runs smoothly and efficiently. Developed using the MERN stack and Next.js, FoodWay is the result of a collaborative effort between Rakshith and Dhruvil. Whether you're in the mood for fast food or a gourmet meal, FoodWay has got you covered. Try it today and experience the future of food ordering!
+
+## How To Run:
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -18,17 +23,3 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
